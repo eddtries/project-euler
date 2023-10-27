@@ -3,5 +3,5 @@ package main
 import "github.com/eddtries/project-euler/pkg/solutions"
 
 func main() {
-	println(solutions.Problem0001())
+	println(solutions.Problem0007())
 }
