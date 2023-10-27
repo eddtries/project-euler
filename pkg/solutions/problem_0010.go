@@ -1,5 +1,7 @@
 package solutions
 
+// https://projecteuler.net/problem=10
+
 func allPrimesUnderX(x int) []int {
 	var primes []int
 
