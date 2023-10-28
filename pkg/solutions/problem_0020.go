@@ -5,7 +5,7 @@ import (
 	"strconv"
 )
 
-// https://projecteuler.net/problem=16
+// https://projecteuler.net/problem=20
 
 func Problem0020() int {
 	number := big.NewInt(1)
